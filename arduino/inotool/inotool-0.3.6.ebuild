@@ -19,7 +19,7 @@ IUSE=""
 RDEPEND="dev-lang/python-exec
 		dev-python/configobj
 		dev-python/jinja
-		levenkov/glob2
+		dev-python/glob2
 		dev-python/pyserial"
 DEPEND="${RDEPEND}"
 
